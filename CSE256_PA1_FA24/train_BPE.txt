@@ -1,0 +1,144 @@
+C:\Users\lenovo\.conda\envs\torch\python.exe D:/Desktop/CSE256/CSE256_PA1_FA24/main.py --model SUBWORDDAN
+Current vocab size: 2000
+
+
+
+BPE training with vocab size of 2000 finished in : 0.19058513641357422 seconds
+data load finished in : 0.2911052703857422 seconds
+
+vocab_size2000:
+C:\Users\lenovo\.conda\envs\torch\lib\site-packages\transformers\utils\generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Epoch #10: train accuracy 0.727, dev accuracy 0.728
+Epoch #20: train accuracy 0.819, dev accuracy 0.782
+Epoch #30: train accuracy 0.849, dev accuracy 0.795
+Epoch #40: train accuracy 0.862, dev accuracy 0.776
+Epoch #50: train accuracy 0.872, dev accuracy 0.778
+Epoch #60: train accuracy 0.877, dev accuracy 0.781
+Epoch #70: train accuracy 0.883, dev accuracy 0.775
+Epoch #80: train accuracy 0.885, dev accuracy 0.776
+Epoch #90: train accuracy 0.888, dev accuracy 0.761
+Epoch #100: train accuracy 0.893, dev accuracy 0.773
+DAN using BPE vocab size of 2000 as embedding to train finished in : 73.93751263618469 seconds
+Current vocab size: 4000
+
+
+
+BPE training with vocab size of 4000 finished in : 0.26763081550598145 seconds
+data load finished in : 0.3424234390258789 seconds
+
+vocab_size4000:
+Epoch #10: train accuracy 0.779, dev accuracy 0.740
+Epoch #20: train accuracy 0.864, dev accuracy 0.796
+Epoch #30: train accuracy 0.899, dev accuracy 0.787
+Epoch #40: train accuracy 0.923, dev accuracy 0.783
+Epoch #50: train accuracy 0.940, dev accuracy 0.781
+Epoch #60: train accuracy 0.952, dev accuracy 0.776
+Epoch #70: train accuracy 0.964, dev accuracy 0.761
+Epoch #80: train accuracy 0.974, dev accuracy 0.767
+Epoch #90: train accuracy 0.980, dev accuracy 0.769
+Epoch #100: train accuracy 0.986, dev accuracy 0.766
+DAN using BPE vocab size of 4000 as embedding to train finished in : 119.95457792282104 seconds
+Current vocab size: 6000
+
+
+
+BPE training with vocab size of 6000 finished in : 0.4401874542236328 seconds
+data load finished in : 0.7574267387390137 seconds
+
+vocab_size6000:
+Epoch #10: train accuracy 0.787, dev accuracy 0.768
+Epoch #20: train accuracy 0.893, dev accuracy 0.795
+Epoch #30: train accuracy 0.933, dev accuracy 0.792
+Epoch #40: train accuracy 0.957, dev accuracy 0.789
+Epoch #50: train accuracy 0.973, dev accuracy 0.787
+Epoch #60: train accuracy 0.985, dev accuracy 0.784
+Epoch #70: train accuracy 0.990, dev accuracy 0.773
+Epoch #80: train accuracy 0.993, dev accuracy 0.776
+Epoch #90: train accuracy 0.996, dev accuracy 0.778
+Epoch #100: train accuracy 0.998, dev accuracy 0.772
+DAN using BPE vocab size of 6000 as embedding to train finished in : 137.43038654327393 seconds
+Current vocab size: 8000
+
+
+
+BPE training with vocab size of 8000 finished in : 0.49588894844055176 seconds
+data load finished in : 0.5173649787902832 seconds
+
+vocab_size8000:
+Epoch #10: train accuracy 0.790, dev accuracy 0.790
+Epoch #20: train accuracy 0.897, dev accuracy 0.806
+Epoch #30: train accuracy 0.942, dev accuracy 0.803
+Epoch #40: train accuracy 0.964, dev accuracy 0.794
+Epoch #50: train accuracy 0.979, dev accuracy 0.790
+Epoch #60: train accuracy 0.987, dev accuracy 0.790
+Epoch #70: train accuracy 0.993, dev accuracy 0.789
+Epoch #80: train accuracy 0.995, dev accuracy 0.779
+Epoch #90: train accuracy 0.998, dev accuracy 0.780
+Epoch #100: train accuracy 0.999, dev accuracy 0.772
+DAN using BPE vocab size of 8000 as embedding to train finished in : 153.98100209236145 seconds
+Current vocab size: 10000
+
+
+
+BPE training with vocab size of 10000 finished in : 0.3821115493774414 seconds
+data load finished in : 0.38662219047546387 seconds
+
+vocab_size10000:
+Epoch #10: train accuracy 0.799, dev accuracy 0.739
+Epoch #20: train accuracy 0.908, dev accuracy 0.806
+Epoch #30: train accuracy 0.951, dev accuracy 0.799
+Epoch #40: train accuracy 0.971, dev accuracy 0.792
+Epoch #50: train accuracy 0.986, dev accuracy 0.781
+Epoch #60: train accuracy 0.991, dev accuracy 0.788
+Epoch #70: train accuracy 0.994, dev accuracy 0.771
+Epoch #80: train accuracy 0.997, dev accuracy 0.764
+Epoch #90: train accuracy 0.999, dev accuracy 0.758
+Epoch #100: train accuracy 0.999, dev accuracy 0.761
+DAN using BPE vocab size of 10000 as embedding to train finished in : 96.49381232261658 seconds
+Current vocab size: 12000
+
+
+
+BPE training with vocab size of 12000 finished in : 0.5953080654144287 seconds
+data load finished in : 0.8670377731323242 seconds
+
+vocab_size12000:
+Epoch #10: train accuracy 0.806, dev accuracy 0.769
+Epoch #20: train accuracy 0.918, dev accuracy 0.799
+Epoch #30: train accuracy 0.957, dev accuracy 0.796
+Epoch #40: train accuracy 0.978, dev accuracy 0.792
+Epoch #50: train accuracy 0.989, dev accuracy 0.784
+Epoch #60: train accuracy 0.993, dev accuracy 0.781
+Epoch #70: train accuracy 0.997, dev accuracy 0.776
+Epoch #80: train accuracy 0.998, dev accuracy 0.772
+Epoch #90: train accuracy 0.999, dev accuracy 0.764
+Epoch #100: train accuracy 0.999, dev accuracy 0.760
+DAN using BPE vocab size of 12000 as embedding to train finished in : 172.39921855926514 seconds
+Current vocab size: 14000
+
+
+
+BPE training with vocab size of 14000 finished in : 0.6186637878417969 seconds
+data load finished in : 0.5591528415679932 seconds
+
+vocab_size14000:
+Epoch #10: train accuracy 0.799, dev accuracy 0.767
+Epoch #20: train accuracy 0.919, dev accuracy 0.799
+Epoch #30: train accuracy 0.962, dev accuracy 0.788
+Epoch #40: train accuracy 0.981, dev accuracy 0.783
+Epoch #50: train accuracy 0.991, dev accuracy 0.782
+Epoch #60: train accuracy 0.994, dev accuracy 0.769
+Epoch #70: train accuracy 0.997, dev accuracy 0.767
+Epoch #80: train accuracy 0.999, dev accuracy 0.767
+Epoch #90: train accuracy 0.999, dev accuracy 0.759
+Epoch #100: train accuracy 1.000, dev accuracy 0.759
+DAN using BPE vocab size of 14000 as embedding to train finished in : 189.05797171592712 seconds
+
+
+Training accuracy plot saved as train_accuracy_BPE.png
+
+
+Testing accuracy plot saved as dev_accuracy_BPE.png
+
+Process finished with exit code 0

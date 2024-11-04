@@ -1,0 +1,67 @@
+C:\Users\lenovo\.conda\envs\torch\python.exe D:/Desktop/CSE256/CSE256_PA1_FA24/main.py --model DAN
+Read in 14923 vectors of size 50
+data load finished in : 0.4301140308380127 seconds
+
+glove.6B.50d:
+Read in 14923 vectors of size 50
+C:\Users\lenovo\.conda\envs\torch\lib\site-packages\transformers\utils\generic.py:441: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
+  _torch_pytree._register_pytree_node(
+Epoch #10: train accuracy 0.794, dev accuracy 0.758
+Epoch #20: train accuracy 0.878, dev accuracy 0.784
+Epoch #30: train accuracy 0.918, dev accuracy 0.789
+Epoch #40: train accuracy 0.949, dev accuracy 0.791
+Epoch #50: train accuracy 0.967, dev accuracy 0.789
+Epoch #60: train accuracy 0.982, dev accuracy 0.784
+Epoch #70: train accuracy 0.989, dev accuracy 0.789
+Epoch #80: train accuracy 0.993, dev accuracy 0.781
+Epoch #90: train accuracy 0.996, dev accuracy 0.787
+Epoch #100: train accuracy 0.998, dev accuracy 0.784
+DAN using glove.6b.50d as embedding to train finished in : 82.3035683631897 seconds
+
+glove.6B.300d:
+Read in 14923 vectors of size 300
+Epoch #10: train accuracy 0.903, dev accuracy 0.815
+Epoch #20: train accuracy 0.965, dev accuracy 0.806
+Epoch #30: train accuracy 0.988, dev accuracy 0.804
+Epoch #40: train accuracy 0.995, dev accuracy 0.802
+Epoch #50: train accuracy 0.999, dev accuracy 0.788
+Epoch #60: train accuracy 0.999, dev accuracy 0.771
+Epoch #70: train accuracy 0.999, dev accuracy 0.778
+Epoch #80: train accuracy 1.000, dev accuracy 0.769
+Epoch #90: train accuracy 1.000, dev accuracy 0.771
+Epoch #100: train accuracy 1.000, dev accuracy 0.768
+DAN using glove.6b.300d as embedding to train finished in : 397.3012499809265 seconds
+
+random.50d:
+Epoch #10: train accuracy 0.853, dev accuracy 0.776
+Epoch #20: train accuracy 0.947, dev accuracy 0.791
+Epoch #30: train accuracy 0.975, dev accuracy 0.789
+Epoch #40: train accuracy 0.990, dev accuracy 0.784
+Epoch #50: train accuracy 0.994, dev accuracy 0.787
+Epoch #60: train accuracy 0.998, dev accuracy 0.779
+Epoch #70: train accuracy 0.999, dev accuracy 0.781
+Epoch #80: train accuracy 1.000, dev accuracy 0.769
+Epoch #90: train accuracy 1.000, dev accuracy 0.757
+Epoch #100: train accuracy 0.999, dev accuracy 0.760
+DAN using random.50d as embedding to train finished in : 102.72003626823425 seconds
+
+random.300d:
+Epoch #10: train accuracy 0.923, dev accuracy 0.798
+Epoch #20: train accuracy 0.980, dev accuracy 0.789
+Epoch #30: train accuracy 0.992, dev accuracy 0.784
+Epoch #40: train accuracy 0.997, dev accuracy 0.784
+Epoch #50: train accuracy 0.999, dev accuracy 0.778
+Epoch #60: train accuracy 0.999, dev accuracy 0.776
+Epoch #70: train accuracy 1.000, dev accuracy 0.771
+Epoch #80: train accuracy 1.000, dev accuracy 0.767
+Epoch #90: train accuracy 1.000, dev accuracy 0.767
+Epoch #100: train accuracy 1.000, dev accuracy 0.758
+DAN using random.300d as embedding to train finished in : 415.9665598869324 seconds
+
+
+Training accuracy plot saved as train_accuracy_DAN.png
+Dev accuracy plot saved as dev_accuracy_DAN.png
+
+
+
+Process finished with exit code 0
